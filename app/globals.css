@@ -46,4 +46,13 @@ a {
   html {
     color-scheme: dark;
   }
+html,
+body {
+  background: transparent !important;
+  background-color: transparent !important;
+  margin: 0;
 }
+
+html {
+  color-scheme: light;
+}}
